@@ -1037,8 +1037,8 @@ $ ./exread.sh
 ```bash
 #!/bin/bash
 # testing the read command
-read -p "Enter your name: RIYA P L"
-echo "Hello RIYA P L, welcome to my program. “
+read -p "Enter your name: Abdul Kalaam K M"
+echo "Abdul kalaam K M, welcome to my program. “
 ``` 
 $ chmod 755 exread1.sh 
 
